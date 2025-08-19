@@ -37,7 +37,8 @@ Quiz App/
 - CSS3 & Bootstrap 4
 - JavaScript (ES6)
 
-
+## Credits
+Created by [Your Name].
 
 ## License
 This project is for educational purposes and is open for personal use and modification.
